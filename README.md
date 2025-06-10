@@ -30,7 +30,7 @@ retrouner dans le repertoire puis entrer
 
 
 // pour créer une paire de clé ssh
-> ssh-keygen -t ed25519 -C "mbguyexau@gmail.com" 
+> ssh-keygen -t ed25519 -C "your@mail.com" 
 > touche entrer
 > touche entrer
 > touche entrer 
